@@ -9,16 +9,28 @@
 \newblock \url{http://cacm.acm.org}.
 
 \bibitem{ACMtrans}
-{ACM Transactions (various}.
+{ACM Transactions (various)}.
 \newblock \url{http://dl.acm.org{\slash}pubs.cfm}.
 
 \bibitem{Algorithms}
 {Algorithms}.
 \newblock \url{http://www.mdpi.com{\slash}journal{\slash}algorithms}.
 
+\bibitem{arXiv}
+{arXiv.org e-Print archive}.
+\newblock \url{http://arxiv.org/}.
+
+\bibitem{Chicago}
+{Chicago Manual of Style}.
+\newblock \url{http://www.chicagomanualofstyle.org{\slash}home.html}.
+
 \bibitem{CiteSeer}
 {CiteSeer$^X$}.
 \newblock \url{http://citeseerx.ist.psu.edu{\slash}index}.
+
+\bibitem{CALGO}
+{Collected Algorithms of the ACM}.
+\newblock \url{http://calgo.acm.org/}.
 
 \bibitem{Daintith:2008:DC:1481358}
 J.~Daintith and E.~Wright.
@@ -37,19 +49,43 @@ U.~E. Gattiker.
   (KLUWER INTERNATIONAL SERIES IN ENGINEERING AND COMPUTER SCIENCE)}.
 \newblock Kluwer Academic Publishers, Norwell, MA, USA, 2004.
 
+\bibitem{Geraci:1991:ISC:574566}
+A.~Geraci.
+\newblock {\em IEEE Standard Computer Dictionary: Compilation of IEEE Standard
+  Computer Glossaries}.
+\newblock IEEE Press, Piscataway, NJ, USA, 1991.
+
 \bibitem{IBM:1993:IDC:541721}
 IBM.
 \newblock {\em IBM Dictionary of Computing}.
 \newblock McGraw-Hill, Inc., New York, NY, USA, 10th edition, 1993.
 
+\bibitem{IEEEcitation}
+{IEEE Citation Reference}.
+\newblock
+  \url{http://www.ieee.org{\slash}documents{\slash}ieeecitationref.pdf}.
+
+\bibitem{IEEEeditorial}
+{IEEE Editorial Style Manual}.
+\newblock \url{http://www.ieee.org{\slash}documents{\slash}style\_manual.pdf}.
+
+\bibitem{IEEEstandards}
+{IEEE Standards Style Manual}.
+\newblock \url{http://standards.ieee.org{\slash}guides{\slash}style{\slash}}.
+
 \bibitem{IEEEtrans}
-{IEEE Transactions (various}.
+{IEEE Transactions (various)}.
 \newblock
   \url{http://www.ieee.org{\slash}publications\_standards{\slash}publications{\slash}journmag{\slash}journals\_magazines.html}.
 
 \bibitem{IEEEXplore}
 {IEEE Xplore Digital Library}.
 \newblock \url{http://ieeexplore.ieee.org{\slash}Xplore{\slash}home.jsp}.
+
+\bibitem{ISO690:2010}
+{ISO 690:2010 Information and Documentation}.
+\newblock
+  \url{http://www.iso.org{\slash}iso{\slash}catalogue\_detail.htm?csnumber=43320}.
 
 \bibitem{JCSS}
 {Journal of Computer and System Sciences}.
@@ -60,6 +96,15 @@ IBM.
 M.~Y. Kao.
 \newblock {\em Encyclopedia of Algorithms}.
 \newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA, 2007.
+
+\bibitem{Webster}
+Merriam-Webster.
+\newblock {\em {Merriam-Webster's Collegiate Dictionary}}.
+\newblock Merriam-Webster, Inc, Springfield, MA, 11 edition, 2003.
+
+\bibitem{NISTalgo}
+{NIST Dictionary of Algorithms and Data Structures}.
+\newblock \url{http://xlinux.nist.gov{\slash}dads{\slash}}.
 
 \bibitem{Padua:2011:EPC:2095797}
 D.~Padua.
