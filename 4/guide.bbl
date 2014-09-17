@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{ACMDL}
+{ACM Digital Library}.
+\newblock \url{http://dl.acm.org{\slash}dl.cfm}.
+
+\bibitem{ACMcomms}
+{Communications of the ACM}.
+\newblock \url{http://cacm.acm.org}.
+
+\bibitem{ACMtrans}
+{ACM Transactions (various}.
+\newblock \url{http://dl.acm.org{\slash}pubs.cfm}.
+
+\bibitem{Algorithms}
+{Algorithms}.
+\newblock \url{http://www.mdpi.com{\slash}journal{\slash}algorithms}.
+
+\bibitem{CiteSeer}
+{CiteSeer$^X$}.
+\newblock \url{http://citeseerx.ist.psu.edu{\slash}index}.
+
+\bibitem{Daintith:2008:DC:1481358}
+J.~Daintith and E.~Wright.
+\newblock {\em A Dictionary of Computing}.
+\newblock Oxford University Press, Inc., New York, NY, USA, 6 edition, 2008.
+
+\bibitem{DBLP}
+{The DBLP Computer Science Bibliography}.
+\newblock
+  \url{http://www.informatik.uni-trier.de{\slash}{\~{}}Ley{\slash}db{\slash}}.
+
+\bibitem{Gattiker:2004:ISD:993905}
+U.~E. Gattiker.
+\newblock {\em The Information Security Dictionary: Defining The Terms That
+  Define Security For E-business, Internet, Information And Wireless Technology
+  (KLUWER INTERNATIONAL SERIES IN ENGINEERING AND COMPUTER SCIENCE)}.
+\newblock Kluwer Academic Publishers, Norwell, MA, USA, 2004.
+
+\bibitem{IBM:1993:IDC:541721}
+IBM.
+\newblock {\em IBM Dictionary of Computing}.
+\newblock McGraw-Hill, Inc., New York, NY, USA, 10th edition, 1993.
+
+\bibitem{IEEEtrans}
+{IEEE Transactions (various}.
+\newblock
+  \url{http://www.ieee.org{\slash}publications\_standards{\slash}publications{\slash}journmag{\slash}journals\_magazines.html}.
+
+\bibitem{IEEEXplore}
+{IEEE Xplore Digital Library}.
+\newblock \url{http://ieeexplore.ieee.org{\slash}Xplore{\slash}home.jsp}.
+
+\bibitem{JCSS}
+{Journal of Computer and System Sciences}.
+\newblock
+  \url{http://www.journals.elsevier.com{\slash}journal-of-computer-and-system-sciences}.
+
+\bibitem{Kao:2007:EA:1201969}
+M.~Y. Kao.
+\newblock {\em Encyclopedia of Algorithms}.
+\newblock Springer-Verlag New York, Inc., Secaucus, NJ, USA, 2007.
+
+\bibitem{Padua:2011:EPC:2095797}
+D.~Padua.
+\newblock {\em Encyclopedia of Parallel Computing}.
+\newblock Springer Publishing Company, Incorporated, 2011.
+
+\bibitem{Pountain:2003:PCD:995471}
+D.~Pountain.
+\newblock {\em The Penguin Concise Dictionary of Computing}.
+\newblock Penguin USA, New York, NY, USA, 2003.
+
+\bibitem{Ralston:2003:ECS:1074100}
+A.~Ralston, E.~D. Reilly, and D.~Hemmendinger, editors.
+\newblock {\em Encyclopedia of Computer Science}.
+\newblock John Wiley and Sons Ltd., Chichester, UK, 4th edition, 2003.
+
+\bibitem{Wah:2007:WEC:1535499}
+B.~W. Wah.
+\newblock {\em Wiley Encyclopedia of Computer Science and Engineering}.
+\newblock Wiley-Interscience, New York, NY, USA, 2007.
+
+\end{thebibliography}
