@@ -7,15 +7,25 @@
 \usepackage{bibentry}
 \nobibliography*
 
-\title{Secondary Research Guide: Computer Science}
-\author{Stuart Olsen}
+\let\olditemize\itemize
+\renewcommand{\itemize}{
+  \olditemize
+  \setlength{\itemsep}{0.25\itemsep}
+}
+
+\title{Secondary Research Guide to Computer Science}
+\author{}
+\date{}
 
 \begin{document}
 \maketitle
 \raggedright
 
+Begin by consulting a reference librarian.
+
 \section*{Reference Books}
 
+\subsection*{Encyclopedias}
 \begin{itemize}
 \item \bibentry{Ralston:2003:ECS:1074100}
 \item \bibentry{Kao:2007:EA:1201969}
@@ -23,14 +33,13 @@
 \item \bibentry{Padua:2011:EPC:2095797}
 \end{itemize}
 
-\section*{Dictionaries}
-
+\subsection*{Dictionaries}
 \begin{itemize}
 \item \bibentry{Pountain:2003:PCD:995471}
 \item \bibentry{Daintith:2008:DC:1481358}
 \item \bibentry{IBM:1993:IDC:541721}
 \item \bibentry{Geraci:1991:ISC:574566}
-\item \bibentry{Gattiker:2004:ISD:993905}
+%\item \bibentry{Gattiker:2004:ISD:993905}
 \end{itemize}
 
 \section*{Indices and Abstracts}
@@ -42,7 +51,8 @@
 \item \bibentry{CiteSeer}
 \end{itemize}
 
-\section*{Core Journals}
+\section*{Journals}
+\subsection*{Core Journals}
 
 \begin{itemize}
 \item \bibentry{ACMcomms}
@@ -50,7 +60,7 @@
 \item \bibentry{IEEEtrans}
 \end{itemize}
 
-\section*{Professional Journals}
+\subsection*{Trade Journals}
 
 \begin{itemize}
 \item \bibentry{Algorithms}
@@ -88,14 +98,15 @@
 
 \begin{itemize}
 \item \bibentry{IEEEeditorial}
-\item \bibentry{IEEEstandards}
-\item \bibentry{IEEEcitation}
+%\item \bibentry{IEEEstandards}
+%\item \bibentry{IEEEcitation}
+\item \bibentry{ACMGuide}
 \item \bibentry{ISO690:2010}
-\item \bibentry{Webster}
-\item \bibentry{Chicago}
+%\item \bibentry{Webster}
+%\item \bibentry{Chicago}
 \end{itemize}
 
-\bibliographystyle{abbrv}
+\bibliographystyle{title}
 \nobibliography{guide.bib}
 
 \end{document}
