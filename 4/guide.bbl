@@ -4,16 +4,16 @@
 {ACM Digital Library}.
 
 \bibitem{ACMGuide}
-{ACM Author's Guide to Preparing ACM SIG Proceedings}.
+{\itshape ACM Author's Guide to Preparing ACM SIG Proceedings}.
 
 \bibitem{ACMcomms}
-{Communications of the ACM}.
+{\itshape Communications of the ACM}.
 
 \bibitem{ACMtrans}
-{ACM Transactions (various)}.
+{\itshape ACM Transactions (various)}.
 
 \bibitem{Algorithms}
-{Algorithms}.
+{\itshape Algorithms}.
 
 \bibitem{arXiv}
 {arXiv.org e-Print archive}.
@@ -25,55 +25,49 @@
 {Collected Algorithms of the ACM}.
 
 \bibitem{Daintith:2008:DC:1481358}
-A Dictionary of Computing.
+\emph{A Dictionary of Computing}.
 
 \bibitem{DBLP}
 {The DBLP Computer Science Bibliography}.
 
 \bibitem{Geraci:1991:ISC:574566}
-IEEE Standard Computer Dictionary: Compilation of IEEE Standard Computer
-  Glossaries.
+\emph{IEEE Standard Computer Dictionary: Compilation of IEEE Standard Computer
+  Glossaries}.
 
 \bibitem{IBM:1993:IDC:541721}
-IBM Dictionary of Computing.
-
-\bibitem{IEEEcitation}
-{IEEE Citation Reference}.
+\emph{IBM Dictionary of Computing}.
 
 \bibitem{IEEEeditorial}
-{IEEE Editorial Style Manual}.
-
-\bibitem{IEEEstandards}
-{IEEE Standards Style Manual}.
+{\itshape IEEE Editorial Style Manual}.
 
 \bibitem{IEEEtrans}
-{IEEE Transactions (various)}.
+{\itshape IEEE Transactions (various)}.
 
 \bibitem{IEEEXplore}
 {IEEE Xplore Digital Library}.
 
 \bibitem{ISO690:2010}
-{ISO 690:2010 Information and Documentation}.
+{\itshape ISO 690:2010 Information and Documentation}.
 
 \bibitem{JCSS}
-{Journal of Computer and System Sciences}.
+{\itshape Journal of Computer and System Sciences}.
 
 \bibitem{Kao:2007:EA:1201969}
-Encyclopedia of Algorithms.
+\emph{Encyclopedia of Algorithms}.
 
 \bibitem{NISTalgo}
 {NIST Dictionary of Algorithms and Data Structures}.
 
 \bibitem{Padua:2011:EPC:2095797}
-Encyclopedia of Parallel Computing.
+\emph{Encyclopedia of Parallel Computing}.
 
 \bibitem{Pountain:2003:PCD:995471}
-The Penguin Concise Dictionary of Computing.
+\emph{The Penguin Concise Dictionary of Computing}.
 
 \bibitem{Ralston:2003:ECS:1074100}
-Encyclopedia of Computer Science.
+\emph{Encyclopedia of Computer Science}.
 
 \bibitem{Wah:2007:WEC:1535499}
-Wiley Encyclopedia of Computer Science and Engineering.
+\emph{Wiley Encyclopedia of Computer Science and Engineering}.
 
 \end{thebibliography}

@@ -526,6 +526,7 @@ FUNCTION {format.btitle}
 { title "title" bibinfo.check
   duplicate$ empty$ 'skip$
     {
+      "\emph{" swap$ * "}" *
     }
   if$
 }
