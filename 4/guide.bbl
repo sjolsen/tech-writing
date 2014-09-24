@@ -10,7 +10,7 @@
 {\itshape Communications of the ACM}.
 
 \bibitem{ACMtrans}
-{\itshape ACM Transactions (various)}.
+{\itshape ACM Transactions {\upshape (various)}}.
 
 \bibitem{Algorithms}
 {\itshape Algorithms}.
@@ -41,7 +41,7 @@
 {\itshape IEEE Editorial Style Manual}.
 
 \bibitem{IEEEtrans}
-{\itshape IEEE Transactions (various)}.
+{\itshape IEEE Transactions {\upshape (various)}}.
 
 \bibitem{IEEEXplore}
 {IEEE Xplore Digital Library}.
