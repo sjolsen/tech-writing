@@ -6,13 +6,15 @@
 \usepackage[margin=0.75in]{geometry}
 \usepackage{bibentry}
 \nobibliography*
+\usepackage{titling}
+\usepackage{paralist}
+\usepackage{enumitem}
 
-\let\olditemize\itemize
-\renewcommand{\itemize}{
-  \olditemize
-  \setlength{\itemsep}{0.25\itemsep}
-}
+\newlist{tightlist}{itemize}{1}
+\setlist[tightlist,1]{nosep}
 
+\posttitle{\par\end{center}\vspace{-0.75in}}
+\setlength{\droptitle}{-0.5in}
 \title{{\bfseries Secondary Research Guide to Computer Science}}
 \author{}
 \date{}
@@ -26,77 +28,77 @@ Consult a reference librarian.
 \section*{Reference Books}
 
 \subsection*{Encyclopedias}
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{Ralston:2003:ECS:1074100}
 \item \bibentry{Kao:2007:EA:1201969}
 \item \bibentry{Wah:2007:WEC:1535499}
 \item \bibentry{Padua:2011:EPC:2095797}
-\end{itemize}
+\end{tightlist}
 
 \subsection*{Dictionaries}
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{Pountain:2003:PCD:995471}
 \item \bibentry{Daintith:2008:DC:1481358}
 \item \bibentry{IBM:1993:IDC:541721}
 \item \bibentry{Geraci:1991:ISC:574566}
 %\item \bibentry{Gattiker:2004:ISD:993905}
-\end{itemize}
+\end{tightlist}
 
 \section*{Indices and Abstracts}
 
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{ACMDL}
 \item \bibentry{IEEEXplore}
 \item \bibentry{DBLP}
 \item \bibentry{CiteSeer}
-\end{itemize}
+\end{tightlist}
 
 \section*{Journals}
 \subsection*{Core Journals}
 
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{ACMcomms}
 \item \bibentry{ACMtrans}
 \item \bibentry{IEEEtrans}
-\end{itemize}
+\end{tightlist}
 
 \subsection*{Trade Journals}
 
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{Algorithms}
 \item \bibentry{JCSS}
-\end{itemize}
+\end{tightlist}
 
 \section*{Government Agencies}
 
-\begin{itemize}
+\begin{tightlist}
 \item National Science Foundation
 \item National Institute of Standards and Technology
 \item National Security Agency
 \item Federal Communications Commission
 \item Department of Energy
-\end{itemize}
+\end{tightlist}
 
 \section*{Web Resources}
 
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{CALGO}
 \item \bibentry{NISTalgo}
 \item \bibentry{arXiv}
-\end{itemize}
+\end{tightlist}
 
 \section*{Professional Organizations}
 
-\begin{itemize}
+\begin{tightlist}
 \item International Organization for Standardization (ISO)
 \item International Electrotechnical Commission (IEC)
 \item Association for Computing Machinery (ACM)
 \item Institute of Electrical and Electronics Engineers (IEEE)
-\end{itemize}
+\end{tightlist}
 
 \section*{Style Guides}
 
-\begin{itemize}
+\begin{tightlist}
 \item \bibentry{IEEEeditorial}
 %\item \bibentry{IEEEstandards}
 %\item \bibentry{IEEEcitation}
@@ -104,7 +106,7 @@ Consult a reference librarian.
 \item \bibentry{ISO690:2010}
 %\item \bibentry{Webster}
 %\item \bibentry{Chicago}
-\end{itemize}
+\end{tightlist}
 
 \bibliographystyle{title}
 \nobibliography{guide.bib}
