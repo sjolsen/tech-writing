@@ -1,23 +1,14 @@
 * Abstract
-- We implement the same algorithm
-- in each of the languages
-- report the execution times
-- the strengths and weaknesses of each language
+- comparing Java to more traditional languages such as C and Fortran
+- direct performance comparison between the three languages
+- a number of platforms
 
 * Introduction
-- The target audience for our results is younger economists or researchers [new to using computers for numerical computation]
-- [the algorithm] is "representative" of many economic computations
-- the two most popular environments for software development for economists
-- report speed results for each language
-- [We seek] to formalize [the experience of knowledgeable programmers] under well-described and explicitly controlled conditions
-- do not comment on the difficulty of implementation
-- the same algorithm
-- without adapting [the algorithm] to the peculiarities of each language
-- reflect more about our knowledge of each language than of its objective virtues
-- The main point of this paper is to provide a measure of the "benefit" in a cost-benefit calculation [for choice of a language to learn]
+- The benchmarking effort described in this paper is intended to address precisely this issue [users' perceptions about Java's performance]
+- direct performance comparisons
 
-* Results
-- we did not try to take advantage of the particular features of each programming language
-
-* Concluding Remarks
-- a wide audience of researchers
+* The Benchmark Suite
+- providing three types of benchmark
+- avoid dependence on particular data sizes
+- simply report execution time
+- a range of execution environments

@@ -1,8 +1,10 @@
 \begin{thebibliography}{1}
 
-\bibitem{NBERw20263}
-{\sc Aruoba, S.~B., and Fern\'{a}ndez-Villaverde, J.}
-\newblock A comparison of programming languages in economics.
-\newblock Working Paper 20263, National Bureau of Economic Research, June 2014.
+\bibitem{Bull:2001:BJA:376656.376823}
+{\sc Bull, J.~M., Smith, L.~A., Pottage, L., and Freeman, R.}
+\newblock Benchmarking java against c and fortran for scientific applications.
+\newblock In {\em Proceedings of the 2001 Joint ACM-ISCOPE Conference on Java
+  Grande\/} (New York, NY, USA, 2001), JGI '01, ACM, pp.~97--105.
+\newblock Accessed electronically October 6, 2014.
 
 \end{thebibliography}
