@@ -1,0 +1,15 @@
+- the same program
+- the same set of requirements for each language
+- separate implementations by different programmers
+- smooths out the differences among individual programmers
+- assess and compare the variability of the program properties the different languages induce
+- scripting languages
+- conventional languages
+
+* Plots and Statistical Methods
+- merely indicate trends and should not be considered precise evidence
+- [single test environment]
+
+* Results
+- [same input]
+- total runtime [vs] initialization and search phases separately
